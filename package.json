@@ -1,0 +1,19 @@
+{
+  "name": "github-service",
+  "version": "1.0.0",
+  "description": "A service who use github APIs",
+  "main": "githubService.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Leandro1992/github-service.git"
+  },
+  "author": "Leandro Marques <leandro1992@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Leandro1992/github-service/issues"
+  },
+  "homepage": "https://github.com/Leandro1992/github-service#readme"
+}
